@@ -105,18 +105,15 @@ To run this project locally:
 
 ## 🖼️ Screenshots
 
-You can add screenshots like this:
-
 ```markdown
 ![Login Screen](screenshots/login.png)
-![Product List](screenshots/product_list.png)
+![Main Screen](screenshots/main_page.png)
+![Filters](screenshots/show_filter.png)
 ```
-
-Create a `screenshots` folder in the root of the project and place your images there.
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
