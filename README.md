@@ -105,11 +105,11 @@ To run this project locally:
 
 ## 🖼️ Screenshots
 
-```markdown
-![Login Screen](screenshots/login.png)
-![Main Screen](screenshots/main_page.png)
-![Filters](screenshots/show_filter.png)
-```
+<div style="justify-content: space-between;flex-direction: column; width=100%">
+    <img src="screenshots/login.png" width="25%" height="auto"/>
+    <img src="screenshots/main_page.png" width="25%" height="auto"/>
+    <img src="screenshots/show_filter.png" width="25%" height="auto"/>
+</div>
 
 ## 📄 License
 
