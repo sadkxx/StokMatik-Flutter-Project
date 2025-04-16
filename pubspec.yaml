@@ -1,0 +1,57 @@
+name: stok_takip
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core:
+  firebase_auth:
+  cloud_firestore:
+  cupertino_icons: ^1.0.8
+  intl:
+  animated_text_kit: ^4.2.2
+  google_fonts: ^6.2.1
+  intl_phone_field: ^3.0.0
+  flutter_icon_snackbar: ^1.2.1
+  animated_search_bar: ^2.7.2
+  shared_preferences: ^2.3.5
+  lottie: ^3.2.0
+  
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/StokMatik Logo1.png
+    - assets/StokMatik Logo2.png
+    - assets/StokMatik Logo3.png
+    - assets/StokMatik Logo4.png
+  fonts:
+    - family: FunnelDisplay
+      fonts:
+        - asset: assets/fonts/FunnelDisplay-Regular.ttf
+
+    - family: SulphurPoint
+      fonts:
+        - asset: assets/fonts/SulphurPoint-Regular.ttf
+        - asset: assets/fonts/SulphurPoint-Bold.ttf
+
+    - family: Sanchez
+      fonts:
+        - asset: assets/fonts/Sanchez-Regular.ttf
+        - asset: assets/fonts/Sanchez-Italic.ttf
+
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.otf
