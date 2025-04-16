@@ -131,11 +131,7 @@ class _ForgotPasswordScreenState extends State<ForgotPasswordScreen> {
                 ],
                 isRepeatingAnimation: false,
               ),
-              SizedBox(height: 20),
-              TextButton(onPressed: () {
-                Navigator.pop(context);
-              }, child: Text(style: TextStyle(color: Colors.yellow),"yoo unutmadım :D")),
-              SizedBox(height: 300),
+              SizedBox(height: 50),
               Text(
                 "Mailini gir ve şifreni yenile!",
                 style: TextStyle(
